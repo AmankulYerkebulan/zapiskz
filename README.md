@@ -1,0 +1,2 @@
+# zapis.kz
+# zapiskz

@@ -1,0 +1,40 @@
+PODS:
+  - ImageSlideshow (1.8.3):
+    - ImageSlideshow/Core (= 1.8.3)
+  - ImageSlideshow/Core (1.8.3)
+  - ImageSlideshow/Kingfisher (1.8.3):
+    - ImageSlideshow/Core
+    - Kingfisher (> 3.0)
+  - Kingfisher (5.14.0):
+    - Kingfisher/Core (= 5.14.0)
+  - Kingfisher/Core (5.14.0)
+  - SnapKit (5.0.1)
+  - YandexMapKit (3.5.0):
+    - YandexRuntime (= 3.5.0)
+  - YandexRuntime (3.5.0)
+
+DEPENDENCIES:
+  - ImageSlideshow (~> 1.8.3)
+  - ImageSlideshow/Kingfisher
+  - Kingfisher
+  - SnapKit
+  - YandexMapKit (= 3.5)
+
+SPEC REPOS:
+  trunk:
+    - ImageSlideshow
+    - Kingfisher
+    - SnapKit
+    - YandexMapKit
+    - YandexRuntime
+
+SPEC CHECKSUMS:
+  ImageSlideshow: 4694d7d699a1549582e7cc631fb392d8f91630f3
+  Kingfisher: 7b64389a43139c903ec434788344c288217c792d
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  YandexMapKit: ecd4b78de34a35df63d066ac299e6fd0fe46d1ba
+  YandexRuntime: 2d55244d06267106cf9b00c25a1e63f72a73b6fd
+
+PODFILE CHECKSUM: c4a17c76d2cd52a827ffb50e1b1e5ed796ac0239
+
+COCOAPODS: 1.8.4
